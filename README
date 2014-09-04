@@ -1,0 +1,4 @@
+0. navigate into the folder invasion_linux
+1. compile by typing: g++ invasion.cc -stc=c++11 -o invasion
+2. open the parameters file and change parameters as needed AND save
+3. run the program by typing ./invasion
